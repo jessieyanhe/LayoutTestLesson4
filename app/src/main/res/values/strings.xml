@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutTest-Lesson4</string>
+    <string name="name_one">张三（一）</string>
+    <string name="name_two">张三（二）</string>
+    <string name="name_three">张三（三）</string>
+    <string name="name_four">张三（四）</string>
+</resources>
